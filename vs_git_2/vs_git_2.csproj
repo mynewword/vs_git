@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>76649aa2-597b-4452-a852-10beb4898eed</ProjectGuid>
+    <ProjectGuid>{172B5EB5-7E18-4E64-8E73-6D72CB15D61E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>vs_git_2</RootNamespace>
