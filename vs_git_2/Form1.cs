@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace vs_git_1
+namespace vs_git_2
 {
     public partial class Form1 : Form
     {
@@ -15,7 +15,5 @@ namespace vs_git_1
         {
             InitializeComponent();
         }
-
-      
     }
 }
